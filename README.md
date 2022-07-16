@@ -1,3 +1,3 @@
 # learning Git
 
-It is nice using it Git
+It is nice using it Git!
